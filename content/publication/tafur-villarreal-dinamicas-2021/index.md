@@ -3,7 +3,7 @@ title: 'Dinámicas emergentes de riesgo para niñas, niños y adolescentes en el
   del Tolima: los nuevos escenarios del reclutamiento forzado, el uso y la utilización
   de menores'
 authors:
-- Andrés Tafur Villarreal
+- admin
 - Ángela Martínez Clavijo
 - Lady Paola Hernández Vera
 - Andrés Mauricio Camacho

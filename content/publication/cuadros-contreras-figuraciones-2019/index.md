@@ -3,7 +3,7 @@ title: 'Figuraciones de la lucha por la tierra en el cine colombiano: dos moment
   recientes'
 authors:
 - Raúl Cuadros Contreras
-- Andres Tafur Villareal
+- admin
 date: '2019-01-01'
 publishDate: '2025-10-12T16:27:31.757994Z'
 publication_types:

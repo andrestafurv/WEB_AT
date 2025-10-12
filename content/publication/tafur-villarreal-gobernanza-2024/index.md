@@ -3,7 +3,7 @@ title: 'Gobernanza rebelde, resistencia campesina y construcción de Estado en e
   de Las Hermosas: un análisis de las dinámicas de la violencia política y los conflictos
   territoriales de la pacificación'
 authors:
-- Andrés Tafur Villarreal
+- admin
 - Geraldine Navarro Díaz
 - Juan Esteban Ávila Saavedra
 date: '2024-01-01'
@@ -15,4 +15,11 @@ links:
 - name: URL
   url: 
     https://repository.ut.edu.co/entities/publication/6ebee83d-7b26-4a83-aeb2-c72a7319473b
+tags:
+- Conflicto armado
+featured: true
+image:
+  caption: 'Fuente: [**Universidad del Tolima**](https://repository.ut.edu.co/handle/001/3874)'
+  focal_point: ""
+  preview_only: false
 ---

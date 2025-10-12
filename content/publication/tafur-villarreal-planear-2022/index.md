@@ -2,7 +2,7 @@
 title: 'Planear para transformar: Aproximación a los resultados de la ejecución del
   Plan de Desarrollo Territorial ‘El Tolima nos une 2020-2023'
 authors:
-- Andrés Tafur Villarreal
+- admin
 - Jennifer Murillo Zapata
 - Gessy Mongui Vargas
 - Michael Inchima

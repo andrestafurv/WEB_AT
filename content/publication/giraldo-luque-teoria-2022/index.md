@@ -4,7 +4,7 @@ title: 'Una teoria sobre el papel de las mujeres víctimas: supervivientes en la
 authors:
 - Santiago Giraldo Luque
 - Gerardo Andrés Machuca Téllez
-- Andrés Tafur Villareal
+- admin
 - Alexander Montealegre Saavedra
 - Ana María Cuesta León
 - Helena Rodríguez Gómez

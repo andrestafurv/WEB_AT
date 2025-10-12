@@ -2,7 +2,7 @@
 title: Reincidir no da tregua. Análisis de las dinámicas de rearme y reincidencia
   de combatientes en el sur del Tolima
 authors:
-- Andrés Tafur Villarreal
+- admin
 - Angela Martínez Castro
 - Cristina Fernández Rovira
 - Diana Castellanos García
@@ -19,4 +19,12 @@ publication_types:
 links:
 - name: URL
   url: https://repository.ut.edu.co/handle/001/3874
+tags:
+- Conflicto Armado
+- Memoría Histórica
+featured: true
+image:
+  caption: 'Fuente: [**Universidad del Tolima**](https://repository.ut.edu.co/handle/001/3874)'
+  focal_point: ""
+  preview_only: false
 ---

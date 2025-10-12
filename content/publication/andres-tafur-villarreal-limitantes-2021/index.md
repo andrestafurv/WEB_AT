@@ -3,7 +3,7 @@ title: Limitantes y posiblidades para la reparación transformadora de los daño
   provocados por el conflicto armado y el desplazamiento forzado de población. El
   caso del Sujeto de Reparación Colectiva de Ataco, Tolima.
 authors:
-- Andrés Tafur Villarreal
+- admin
 - Alejandro Mejía Baldión
 date: '2021-01-01'
 publishDate: '2025-10-12T16:27:31.793770Z'

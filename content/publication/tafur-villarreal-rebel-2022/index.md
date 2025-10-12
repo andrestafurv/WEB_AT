@@ -2,7 +2,7 @@
 title: 'Rebel government and civilian resistance: conservation experiences during
   the armed conflict in the Cañon de las Hermosas in Colombia'
 authors:
-- Andrés Tafur Villarreal
+- admin
 date: '2022-01-01'
 publishDate: '2025-10-12T16:27:31.733313Z'
 publication_types:

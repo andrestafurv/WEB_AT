@@ -3,7 +3,7 @@ title: Resistencia comunitaria como experiencia de construcción de paz y diálo
   en el Cañón de las Hermosas (Colombia)
 authors:
 - Déborah Presta Novello
-- Andrés Tafur Villarreal
+- admin
 date: '2022-01-01'
 publishDate: '2025-10-12T16:27:31.710477Z'
 publication_types:

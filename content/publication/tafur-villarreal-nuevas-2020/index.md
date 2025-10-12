@@ -2,7 +2,7 @@
 title: 'Nuevas y viejas violencias: desafíos para la no repetición del conflicto armado
   en el Sur del Tolima'
 authors:
-- Andrés Tafur Villarreal
+- admin
 - Alejandro Mejía Baldión
 date: '2020-01-01'
 publishDate: '2025-10-12T16:27:31.749607Z'
