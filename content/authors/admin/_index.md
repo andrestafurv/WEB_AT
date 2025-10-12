@@ -34,51 +34,41 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:jatafurv@ut.edu.co'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://x.com/andrstafurv
+  - icon: brands/instagram
+    url: https://www.instagram.com/andresconsuerte/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/andr%C3%A9s-tafur-villarreal-b016712a/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=sHyOILcAAAAJ&hl=es&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-2497-4016
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Construcción territorial
+  - Memoria histórica
+  - Procesos participativos
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
+  - area: Magister Construcción de Paz
+    institution: Universidad de los Andes
+    date_start: 2020
+    date_end: 2022
+    summary:
+  - area: Magister Ciencia Política
+    institution: Universidad de los Andes
+    date_start: 2015
+    date_end: 2017
+  - area: Pregrado Comunicación social y periodismo
+    institution: Universidad del Tolima
+    date_start: 2009
     date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+    summary:
+  - area: Pregrado Filosofía
+    institution: Universidad del Tolima
 
 work:
   - position: Senior AI Research Scientist
