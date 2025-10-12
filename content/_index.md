@@ -42,6 +42,16 @@ sections:
       columns: 2
   - block: collection
     content:
+      title: Proyectos
+      filters:
+        folders:
+          - proyectos
+        exclude_featured: false
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
+    content:
       title: Últimas publicaciones
       text: ''
       filters:
