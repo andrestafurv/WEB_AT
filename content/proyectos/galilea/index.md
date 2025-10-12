@@ -1,16 +1,14 @@
 ---
-title: "Bosque de Galilea: El costo socioterriotrial de los bonos de carbono"
-date: 2025-10-26
-links:
-  - type: site
-    url: https://github.com/pandas-dev/pandas
+title: "Bosque de Galilea: el costo socioterritorial de los bonos de carbono"
+summary:
+date: 2025-10-06
+authors:
+  - admin
 tags:
-  - Memoría Histórica
-  - Conflictos Socioambientales
-  - Gobernanza
+  - Conflictos Ambientales
 ---
 
-FEl proyecto "Bosque de Galilea: el costo socio-territorial de los bonos de carbono", analiza cómo los mecanismos de compensación climática, promovidos como soluciones al cambio climático, están generando nuevos conflictos en territorios rurales de Colombia. 
+En este proyecto se analiza cómo los mecanismos de compensación climática, promovidos como soluciones al cambio climático, están generando nuevos conflictos en territorios rurales de Colombia. 
 
 En el Bosque de Galilea, declarado Parque Natural Regional en 2019, la compra de bonos de carbono por parte de empresas y actores externos ha transformado las dinámicas locales, restringido el acceso de las comunidades campesinas a sus tierras y afectado sus medios de vida.
 
@@ -19,5 +17,3 @@ La investigación parte de una pregunta central: ¿Qué efectos tienen los bonos
 Además de los informes académicos, el proyecto incorpora una dimensión de divulgación periodística y pedagógica, a través de la producción de un libro, diez reportajes escritos y un pódcast de seis episodios. Estas piezas buscan ampliar la comprensión pública sobre las tensiones entre conservación, desarrollo y justicia ambiental, y fortalecer la incidencia de las comunidades en los debates sobre la regulación de los mercados de carbono.
 
 Con un enfoque interdisciplinario y participativo, la investigación aporta a la discusión sobre la gobernanza territorial, la economía verde y los derechos campesinos, a través de una mirada crítica sobre los costos humanos y sociales de las políticas climáticas en Colombia y América Latina.
-
-<!--more-->
