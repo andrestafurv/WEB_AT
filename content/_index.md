@@ -42,7 +42,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Últimas publicaciones
       text: ''
       filters:
         folders:
