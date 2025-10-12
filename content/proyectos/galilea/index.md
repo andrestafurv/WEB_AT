@@ -17,3 +17,8 @@ La investigación parte de una pregunta central: ¿Qué efectos tienen los bonos
 Además de los informes académicos, el proyecto incorpora una dimensión de divulgación periodística y pedagógica, a través de la producción de un libro, diez reportajes escritos y un pódcast de seis episodios. Estas piezas buscan ampliar la comprensión pública sobre las tensiones entre conservación, desarrollo y justicia ambiental, y fortalecer la incidencia de las comunidades en los debates sobre la regulación de los mercados de carbono.
 
 Con un enfoque interdisciplinario y participativo, la investigación aporta a la discusión sobre la gobernanza territorial, la economía verde y los derechos campesinos, a través de una mirada crítica sobre los costos humanos y sociales de las políticas climáticas en Colombia y América Latina.
+
+## Serie Podcast
+### Bosque de Galilea: Semillas de Resistencia
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/5bLkVQqbmCrndYpNqHPpfN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
