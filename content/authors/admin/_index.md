@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Andrés Tafur Villareal
+title: Andrés Tafur Villarreal
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Andrés
-last_name: Tafur-Villareal
+last_name: Tafur-Villarreal
 
 # Pronouns (optional)
 pronouns:
