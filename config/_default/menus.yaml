@@ -16,6 +16,3 @@ main:
   - name: Blog
     url: /blog
     weight: 40
-  - name: Docencia
-    url: courses/
-    weight: 13
