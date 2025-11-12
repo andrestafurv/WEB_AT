@@ -24,8 +24,6 @@ image:
   preview_only: false
 ---
 
-*La siguiente nota fue publicada en el portal web de Caracol Radio, pueden acceder a ella dando [click aquí](https://caracol.com.co/2024/12/21/libro-analiza-el-conflicto-armado-y-la-resistencia-comunitaia-en-el-canon-de-las-hermosas/)*
-
 El Sello Editorial de la Universidad del Tolima presentó el libro “Gobernanza rebelde, resistencia campesina y construcción de Estado en el Cañón de Las Hermosas”, una obra escrita por Andrés Tafur Villarreal, Geraldine Navarro Díaz y Juan Esteban Ávila Saavedra, que ofrece un análisis riguroso sobre las dinámicas del conflicto armado en el sur del Tolima, específicamente en el cañón de Las Hermosas, en Chaparral, un territorio emblemático que fue escenario de tensiones entre el gobierno, las FARC y las comunidades campesinas.
 
 ### El conflicto en el cañón de Las Hermosas
@@ -53,3 +51,5 @@ Los autores concluyen que la paz en territorios como Las Hermosas no puede limit
 Andrés Tafur Villarreal, Geraldine Navarro Díaz y Juan Esteban Ávila Saavedra son investigadores del Grupo de Estudios Regionales de la Universidad del Tolima. A través de un enfoque interdisciplinario que combina la etnografía política y el análisis histórico, los autores logran reconstruir una de las etapas más complejas del conflicto armado en Colombia, visibilizando las voces de las comunidades que, con dignidad y resiliencia, resistieron la violencia.
 
 El libro es de divulgación gratuita y se puede descargar a través del repositorio institucional de la [Biblioteca Rafael Parga Cortés:](https://repository.ut.edu.co/home)
+
+*Esta nota fue publicada en el portal web de Caracol Radio, pueden acceder a ella dando [click aquí](https://caracol.com.co/2024/12/21/libro-analiza-el-conflicto-armado-y-la-resistencia-comunitaia-en-el-canon-de-las-hermosas/)*
