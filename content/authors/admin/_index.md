@@ -51,4 +51,4 @@ profiles:
 
 Docente asistente adscrito al Departamento de Estudios Interdisciplinarios de la Universidad del Tolima. Fui director del Centro de Estudios Regionales (CERE) de la misma institución, entre 2019 y 2024, donde coordiné proyectos sobre economía solidaria, ordenamiento territorial, justicia ambiental y construcción de paz en el Tolima, el suroccidente y el Pacífico colombiano. Hago parte de la Red de Estudios Sobre Drogas en América Latina (REDESDAL) y de la Red Quynza. Me interesan los procesos participativos orientados a la construcción de la memoria histórica, la gobernanza territorial, la conservación y el desarrollo.
 
-dfdffffdaa
+
