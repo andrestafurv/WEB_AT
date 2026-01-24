@@ -1,15 +1,13 @@
 ---
 title: "Sin seguridad en el territorio"
-summary: "Con el objetivo de cerrar brechas históricas en el acceso a la educación superior, la Universidad del Tolima (UT), en articulación con el Gobierno Nacional, avanza en la puesta en marcha de dos nuevas sedes universitarias en el Norte y el Sur del departamento. La iniciativa se soporta en estudios de pertinencia académica desarrollados por el Centro de Estudios Regionales (CERE) y se alinea con la meta nacional de ampliar en 500.000 los cupos en educación superior, el Plan Estratégico de Desarrollo Institucional 2023–2032 y la Política de Regionalización de la UT."
+summary: "La fórmula de fracaso es redonda: políticos, no técnicos al frente de la política (y por eso el resultado no es la mejora en los indicadores, sino una candidatura a la Cámara de Representantes); retórica ideologizada y politizada, enfocada no en garantizar la seguridad de la población sino en mostrar que todo va bien; falta de articulación con gobiernos locales y con el gobierno nacional; la inexistencia de una evaluación clara y constante de los resultados, entre otros."
+date:2026-01-24
 image:
   caption: 'Fuente: Autor'
 authors:
   - admin
-  -
 tags: []
 ---
-
- # Sin seguridad en el territorio
 
 Si el legado que el actual gobierno departamental pretende dejar es el de la seguridad, la pregunta obligada —a dos años de gestión— no tiene que ser retórica ni mucho menos ideológica: **¿en qué indicadores, territorios y poblaciones se expresa ese logro?** La evidencia disponible sugiere una respuesta concreta: la seguridad no solo no ha mejorado de manera estructural, sino que en varios frentes se ha deteriorado, mientras la narrativa oficial insiste en un control que no se corresponde con la realidad del Tolima.
 
