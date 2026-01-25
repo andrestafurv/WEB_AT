@@ -1,7 +1,7 @@
 ---
 title: "Pertinencia territorial de la oferta académica: hoja de ruta para las sedes de la UT en el norte y el sur del Tolima"
 summary: "Con el objetivo de cerrar brechas históricas en el acceso a la educación superior, la Universidad del Tolima (UT), en articulación con el Gobierno Nacional, avanza en la puesta en marcha de dos nuevas sedes universitarias en el Norte y el Sur del departamento. La iniciativa se soporta en estudios de pertinencia académica desarrollados por el Centro de Estudios Regionales (CERE) y se alinea con la meta nacional de ampliar en 500.000 los cupos en educación superior, el Plan Estratégico de Desarrollo Institucional 2023–2032 y la Política de Regionalización de la UT."
-date:2025-11-25
+date: 2025-11-25
 image:
   caption: 'Fuente: Autor'
 authors:
