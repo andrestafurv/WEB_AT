@@ -1,7 +1,7 @@
 ---
 title: "Sin seguridad en el territorio"
 summary: "La fórmula de fracaso es redonda: políticos, no técnicos al frente de la política (y por eso el resultado no es la mejora en los indicadores, sino una candidatura a la Cámara de Representantes); retórica ideologizada y politizada, enfocada no en garantizar la seguridad de la población sino en mostrar que todo va bien; falta de articulación con gobiernos locales y con el gobierno nacional; la inexistencia de una evaluación clara y constante de los resultados, entre otros."
-date:2026-01-24
+date: 2026-01-24
 image:
   caption: 'Fuente: Autor'
 authors:
