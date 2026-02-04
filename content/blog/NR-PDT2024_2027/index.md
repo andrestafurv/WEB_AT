@@ -1,6 +1,6 @@
 ---
 title: La seguridad, la planeación y los problemas ambientales, económicos y sociales en el nuevo Plan de Desarrollo del Tolima.
-summary: Retos para el cuatrenio 2023 - 2027.
+summary: Retos para el cuatrenio 2024 - 2027.
 date: 2023-10-01
 
 # Featured image
@@ -14,7 +14,7 @@ authors:
 tags:
 ---
 
-### Retos para el cuatrenio 2023 - 2027.
+### Retos para el cuatrenio 2024 - 2027.
 
 Pasaron las elecciones y como novedad, el departamento eligió no solo a la primera gobernadora en su historia, sino que votó masivamente por ella. Adriana Magali Matiz obtuvo 352 mil votos, 134 mil más que su antecesor, y ganó en todos los 47 municipios del departamento. 
 
