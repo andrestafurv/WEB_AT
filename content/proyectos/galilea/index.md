@@ -1,7 +1,7 @@
 ---
 title: "Bosque de Galilea: el costo socioterritorial de los bonos de carbono"
 summary:
-date: 2025-10-06
+date: 2026-02-04
 authors:
   - admin
 tags:
