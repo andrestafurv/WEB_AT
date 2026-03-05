@@ -49,9 +49,9 @@ profiles:
 
 ---
 
-Soy docente asistente del Departamento de Estudios Interdisciplinarios de la Universidad del Tolima. Entre 2019 y 2025 dirigí el Centro de Estudios Regionales (CERE), donde coordiné equipos y proyectos de investigación aplicada y consultoría pública en economía solidaria, ordenamiento territorial, justicia ambiental y construcción de paz, con énfasis en el Tolima y en territorios del suroccidente y el Pacífico colombiano.
+Soy docente asistente del Departamento de Estudios Interdisciplinarios de la Universidad del Tolima. Entre 2019 y 2025 dirigí su Centro de Estudios Regionales (CERE-UT), donde coordiné equipos y proyectos de investigación aplicada y consultoría pública en economía solidaria, ordenamiento territorial, justicia ambiental y construcción de paz, con énfasis en el Tolima y en territorios del suroccidente y el Pacífico colombiano.
 
-Mi formación integra dos maestrías (ciencia política y construcción de paz, Universidad de los Andes) con un pregrados en filosofía y comunicación social - periodismo. En paralelo, he fortalecido mi trayectoria académica con cursos especializados en política de drogas, paz ambiental y enfoques de derechos humanos, como becario del PPD–CIDE (México), University of Kassel (Alemania), el Instituto CAPAZ, y el Peace Research Institute Oslo (PRIO), entre otros.
+Mi formación integra dos maestrías (ciencia política y construcción de paz, Universidad de los Andes) con pregrados en filosofía y comunicación social - periodismo. En paralelo, he fortalecido mi trayectoria académica con cursos especializados en política de drogas, paz ambiental y enfoques de derechos humanos, como becario del PPD–CIDE (México), University of Kassel (Alemania), el Instituto CAPAZ, y el Peace Research Institute Oslo (PRIO), entre otros.
 
 He liderado investigaciones recientes sobre conflictos socio-territoriales relacionados con el mercado de bonos de carbono, transformación de la violencia política y sobre capacidades institucionales para la no repetición del conflicto armado. 
 
