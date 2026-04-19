@@ -1,7 +1,7 @@
 ---
-title: "Lérida otra vez"
+title: "La paz y las ciudades"
 summary: "El resultado es una continuidad perversa: ayer se “limpiaba”, hoy se “ajusta cuentas”. Cambia el eufemismo pero no la función. Sirve para tres cosas. Para la Policía, es la forma barata de explicar sin investigar. Para la política, es el atajo que convierte una crisis sostenida en un evento: consejo de seguridad, foto, recompensa, y a otra cosa. Para parte del periodismo, es la coartada perfecta para no preguntar lo obvio: ¿quién controla el territorio, qué economías mandan, qué redes protegen, qué falló en prevención? ¿Quién manda matar?"
-date: 2026-02-03
+date: 2026-04-19
 image:
   caption: 'Fuente: Autor'
 authors:
@@ -9,31 +9,33 @@ authors:
 tags: []
 ---
 
-La noche del 23 de enero, en el barrio Resurgir, asesinaron a tres miembros de una misma familia. La versión oficial y la nota rápida coincidieron en el libreto: “ajuste de cuentas”, (presuntas) “rentas del microtráfico”, “vendetta”. Como de costumbre, con eso es suficiente para que el caso se cierre antes de que la investigación se abra.
+Un conjunto de académicos de distintas universidades nacionales y regionales del país, acaba de presentar formalmente al debate presidencial una propuesta (de) política sobre el derecho a la paz en las ciudades. El documento, respaldado en décadas de datos sobre homicidio, cuestiona que el debate sobre la paz siga anclado en el mundo rural.
 
-Pero la masacre no es un hecho aislado. En los últimos años, Lérida viene acumulando homicidios cometidos con una trayectoria reconocible. En fuentes abiertas y documentos locales se pueden rastrear, entre otros, los siguientes casos: en 2023, el doble homicidio de dos hermanos menores de edad (marzo), el asesinato de un hombre en octubre a unas cuadras de la Alcaldía, y otro homicidio en noviembre cometido por dos hombres en moto en un barrio del casco urbano.
+Según datos del DANE procesados por la RED Quynza, entre 1979 y 2024 las ciudades colombianas produjeron el 58% de los 835.309 homicidios registrados en el país. Las ciudades grandes como Medellín, Cali y Barranquilla, promediaron una tasa de 85 homicidios por cada cien mil habitantes en ese periodo. Esa cifra supera con creces la de cualquier otra categoría de municipio, incluidos los poblados rurales que solemos imaginar como epicentros de la violencia. 
 
-En 2024, en octubre, se reportaron dos intentos de sicariato con tres personas heridas, y en diciembre se confirmó un homicidio sicarial en el barrio Alemán. A eso se suman hechos recientes: un homicidio reportado en noviembre de 2025, el asesinato de Juan Diego Londoño (“el Paisa”) en diciembre de 2025, el homicidio de comienzos de enero de 2026 en el barrio Las Brisas, y finalmente el triple asesinato de Resurgir, que no solo condensa la crisis sino que la expone abiertamente.
+Las ciudades intermedias y pequeñas promediaron tasas de 40 y 46, equiparables a las de los poblados. En el territorio donde viven cuatro de cada cinco colombianos se comete más de la mitad de los asesinatos. Y sin embargo, la paz se diseña como si la ciudad no existiera.
 
-Si ampliamos el lente hacia atrás, el patrón es claro. En 2016 la Defensoría del Pueblo ya documentaba para Lérida un ciclo de homicidios y amenazas con el mismo sello: sicariato, panfletos, intimidación y la mal llamada “limpieza social” como tecnología de control. Allí se registran víctimas con nombre propio y una secuencia temporal concreta de hechos entre finales de 2015 y los primeros meses de 2016.
+De acuerdo con el argumento de la RED, el imaginario del conflicto armado, el que ha dominado durante siete décadas nuestra manera de entender la violencia y de construir la paz, atraviesa una crisis, por dos razones:
 
-En Lérida, ese lenguaje (“limpieza social”), más que un exceso retórico, es testimonio de la crueldad de la violencia organizada. Durante el periodo paramilitar, fue un punto estratégico para el Bloque Tolima y uno de los municipios en donde el asesinato selectivo operó como herramienta para disciplinar la vida cotidiana, sembrar miedo y reordenar el territorio. 
+La primera, porque pese a esfuerzos enormes y logros reales, ese imaginario no logró desterrar el exceso violento. La serie histórica de la tasa de homicidio en Colombia revela un fenómeno persistente: desde 1959, el país no ha logrado bajar de manera sostenida por debajo de la tasa de 20. En 2014 bajó de 30 por primera vez desde 1980, pero se estancó. Hoy, un nuevo ciclo violento está en marcha. Tras la desmovilización de los paramilitares y de las FARC aparecieron el Clan del Golfo, las disidencias y un sinfín de bandas criminales. La desmovilización no produjo el salto histórico que se esperaba.
 
-En los balances de memoria histórica, como los informes del CNMH sobre el Clan Isaza y el Bloque Tolima, el norte del departaemnto aparece como un espacio clave de operación, con repertorios que combinaron homicidios selectivos, desplazamiento, desaparición y masacres. En este sentido, más que de accidentes, podemos hablar de un reciclaje de la violencia.
+La segunda razón, porque ese imaginario borró la ciudad. Al concentrarse en la guerra, sus actores y sus dinámicas rurales, dejó fuera las violencias de la convivencia urbana. Las riñas que terminan en muerte. La violencia intrafamiliar. El exterminio social de jóvenes y habitantes de calle. El control territorial de bandas y combos que no encajan en la categoría de "actor armado". 
 
-El resultado es una continuidad perversa: ayer se “limpiaba”, hoy se “ajusta cuentas”. Cambia el eufemismo pero no la función. Sirve para tres cosas. Para la Policía, es la forma barata de explicar sin investigar. Para la política, es el atajo que convierte una crisis sostenida en un evento: consejo de seguridad, foto, recompensa, y a otra cosa. Para parte del periodismo, es la coartada perfecta para no preguntar lo obvio: ¿quién controla el territorio, qué economías mandan, qué redes protegen, qué falló en prevención? ¿Quién manda matar?
+De acuerdo con esta lógica, la guerra como la conocemos no se tomó la ciudad. Los actores armados no lograron implantar en las calles las dominaciones que sembraron en el campo. Según el Centro Nacional de Memoria Histórica, entre 1985 y 2022, en la ciudad ocurrió apenas el 17% de las acciones bélicas y el 27% de los reclutamientos. Pero eso no significa que la ciudad sea pacífica. Significa que sus violencias tienen otra naturaleza.
 
-Y sin embargo, advertencias hubo. En 2023, la Defensoría encendió las alarmas para el norte del Tolima, incluyendo a Lérida: disputas entre estructuras criminales por rentas ilegales, control territorial, amenazas y un escenario propicio para homicidios y extorsión. Lo que evidencia que si la discusión pública sigue atrapada en el cinismo del “algo debían”, Lérida seguirá siendo una y “otra vez”.
+Por ejemplo: la tasa de lesiones personales en las ciudades alcanza 240 por cada cien mil habitantes; en los poblados, 125. La violencia intrafamiliar urbana marca 172; la rural, 77. El 90% de los casos de exterminio social, la mal llamada “limpieza”, ocurre en calles urbanas. El 85% de los atracos a persona sucede en la ciudad.
 
-Algunas salidas concretas, más allá del ritual:
+Estas cifras dibujan un mosaico de violencias que no proviene de la guerra. Proviene de la convivencia. De la familia, el vecindario, la fiesta, el trabajo. De acuero con la RED Quynza, frente al desborde urbano, nuestras violencias dejan de ser un asunto de los actores armados y sus desafueros. Hay que voltear la mirada hacia adentro de la sociedad, hacia la tendencia a resolver el conflicto mediante el despojo y la fuerza.
 
-Primero, cambiar el estándar de explicación: ninguna autoridad debería usar “ajuste de cuentas” como conclusión, sino como hipótesis investigativa, con indicadores verificables y rendición de cuentas mensual (casos abiertos, avances, capturas, esclarecimientos).
+El exterminio social ilustra este punto con crudeza. Los vecinos "ajustician" a jóvenes, personas con identidades sexuales diversas o habitantes de calle. No lo hacen por razones políticas ni económicas. Lo hacen para regular la convivencia. El fenómeno existe en otros países, pero en ninguno con la sistematicidad que tiene en Colombia. “Algo está roto en el alma colectiva”, dice la RED. La presencia sostenida de la guerra configuró una estructura de sentimientos que facilita el tránsito al asesinato.
 
-Segundo, una estrategia de investigación focalizada en homicidios y sicariato con apoyo real de Fiscalía y policía judicial: priorizar redes (armas, motos, puntos de vigilancia, finanzas), no solo autores materiales.
+Desde este punto de vista, la RED Quynza propone ampliar el horizonte de la paz, sobre la base de tres ejes:
 
-Tercero, cumplir las recomendaciones Alerta Temprana 002 de 2023 como plan operativo: prevención situada (barrios, corredores, horarios), protección efectiva a testigos y líderes, y control de economías que financian la violencia (microtráfico, extorsión, “gota a gota”), sin gimnasia estadística.
+El primero es la equidad urbana. Colombia es una de las naciones más desiguales del planeta. La urbanización espacializó esa desigualdad y convirtió las ciudades en hervideros de exclusión. La Constitución del 91 protegió a indígenas y afrodescendientes, hace poco amplió esa protección al campesinado. Pero los sectores populares urbanos carecen de una protección equivalente. Las ciudades pueden construir pactos de equidad. Operan sobre grandes poblaciones en el territorio donde funcionan los epicentros del capital y la decisión política.
 
-Cuarto, implementar el Plan Integral de Seguridad y Convivencia Ciudadana (PISCC), particularmente en relación con su criterio de focalización. Paradójicamente, el diagnóstico y la matriz programática del documento priorizan el barrio Resurgir como escenario para la prevención.
+El segundo eje es la transformación cultural. El exceso violento no desaparecerá mientras el alma colectiva siga legitimando los actos de violencia y muerte. La RED apunta a tres palancas de esa transformación: las víctimas urbanas, cuya memoria y reparación deben adquirir protagonismo en la ciudad; las mujeres, sujeto de impactos diferenciados y fuerza motriz de cambios culturales; y la generación joven, que nutre el exceso como víctima y como victimario, pero que fue el motor de la explosión social de 2021.
 
-Por último, un acuerdo mínimo con medios locales y regionales: dejar de publicar el prontuario como epitafio y empezar a preguntar por fallas institucionales, patrones y responsables, a ver si así por fin dejamos de legitimar la violencia, la ineptitud y la impunidad.
+El tercer eje es el empoderamiento de la sociedad. La paz no puede seguir como asunto exclusivo del Estado y de quienes empuñan las armas. La negociación con los agentes armados debe partir de la convergencia entre Estado y sociedad organizada, y no quedar en manos de los beneficarios del conflicto (y virtuales beneficarios de la paz).
+
+La palabra la tienen los candidatos presidenciales.
 
