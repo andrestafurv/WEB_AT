@@ -1,6 +1,7 @@
 ---
 title: "La paz y las ciudades"
-summary: "El resultado es una continuidad perversa: ayer se “limpiaba”, hoy se “ajusta cuentas”. Cambia el eufemismo pero no la función. Sirve para tres cosas. Para la Policía, es la forma barata de explicar sin investigar. Para la política, es el atajo que convierte una crisis sostenida en un evento: consejo de seguridad, foto, recompensa, y a otra cosa. Para parte del periodismo, es la coartada perfecta para no preguntar lo obvio: ¿quién controla el territorio, qué economías mandan, qué redes protegen, qué falló en prevención? ¿Quién manda matar?"
+summary: Un conjunto de académicos de distintas universidades nacionales y regionales del país, acaba de presentar formalmente al debate presidencial una propuesta (de) política sobre el derecho a la paz en las ciudades. El documento, respaldado en décadas de datos sobre homicidio, cuestiona que el debate sobre la paz siga anclado en el mundo rural.
+
 date: 2026-04-19
 image:
   caption: 'Fuente: Autor'
